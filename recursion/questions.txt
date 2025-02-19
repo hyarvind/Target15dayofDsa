@@ -1,0 +1,16 @@
+----------.....questions ...-------
+......array.......
+all the solve it 
+leetcode 167
+leetcode 34
+.............recursions...........
+
+climbing stairs by recursions
+leetcode 746
+leetcode 54
+leetcode 268
+leetcode 240
+palynomial by recursions
+power by recursions
+
+
