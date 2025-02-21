@@ -3,6 +3,9 @@
 all the solve it 
 leetcode 167
 leetcode 34
+leetcode 35
+leetcode 162
+leetcode 852
 .............recursions...........
 
 climbing stairs by recursions
@@ -10,6 +13,7 @@ leetcode 746
 leetcode 54
 leetcode 268
 leetcode 240
+leetcode 704 
 palynomial by recursions
 power by recursions
 

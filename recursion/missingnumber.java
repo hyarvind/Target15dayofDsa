@@ -28,12 +28,9 @@ public class missingnumber {
 public int missingNumbers(int[] nums) { //sum
     int len = nums.length;
     int sum = (0+len)*(len+1)/2;
-    for (int num: nums) {
-        sum-=nums[num];
+    for(int i=0; i<len; i++){
+        sum-=nums[i];
     }
-    // for(int i=0; i<len; i++){
-    //     sum-=nums[i];
-    // }
     return sum;
 }
     public static void main(String[] args) {
