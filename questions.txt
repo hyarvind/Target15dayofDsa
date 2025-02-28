@@ -6,6 +6,13 @@ leetcode 34
 leetcode 35
 leetcode 162
 leetcode 852
+leetcode 21
+leetcode 2570
+leetcode 75
+leetcode 876
+leetcode 2095
+leetcode 2570
+leetcode 1721
 .............recursions...........
 
 climbing stairs by recursions
