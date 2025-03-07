@@ -72,6 +72,28 @@ public class basics {
      System.out.println("Even numbers: " + even);
  }
 
+ ///// merge interval
+ public static Node mergNode(Node head){
+    Node current =head;
+    Node dummy =new Node(0);
+    Node result =dummy;
+    int sum =0;
+
+    while (current !=null){
+        if (current.val ==0 && sum != 0) {
+            result.next=new Node(sum);
+            result =result.next;
+            sum =0;
+        }else if (current.val != 0) {
+            sum+=current.next;
+
+            
+        }
+    }
+    return dummy.next;
+
+ }
+
   /// mid find
   public static void tomidfind(int data){
     Node slow =head;
@@ -93,6 +115,8 @@ public class basics {
      b.toprint(0);
     //  b.evenss(0);
      b.tomidfind(0);
+     b.mergNode(head);
+     b.toprint(0);
    }
     
 }

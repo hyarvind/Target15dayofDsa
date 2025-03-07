@@ -13,6 +13,12 @@ leetcode 876
 leetcode 2095
 leetcode 2570
 leetcode 1721
+solve this...
+leetcode 328
+leetcode 24
+leetcode 19
+leetcode 160
+leetcode 2181
 .............recursions...........
 
 climbing stairs by recursions
